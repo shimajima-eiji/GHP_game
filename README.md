@@ -1,3 +1,1 @@
-# Images
-「リポジトリ」ディレクトリを作って画像を置く。
-URLが変わった時にリンク切れを起こすと大変なので、リポジトリディレクトリ以下には画像以外置かない。
+[Wiki](https://github.com/shimajima-eiji/GHP_game/wiki)
